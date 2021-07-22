@@ -24,7 +24,7 @@ To play the game you first have to specify either to play against another player
 * Playing against another player: Each player takes a turn by placing a disk symbol (\+ or \*) in a column of the table. To play you need to input a number (1 \- 7) to choose a column. Winner is the first player to have four in a row. The updated table is printed after every move.
 * Playing against the computer: The player each round chooses a column (1 \- 7) as input. Then the computer chooses a move by evaluating the moves available. The updated table is printed after every move. 
 
-##Examples
+## Examples
 Choosing a game mode:
 <br>
 ![choose-mode](https://user-images.githubusercontent.com/77937479/126626221-f71a54f5-c51d-4fb0-8fae-462038a73fc3.png)  
