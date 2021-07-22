@@ -1,13 +1,11 @@
 # Four in a row game
----
 Simple C script implementing the four in a row game in a console application
 
 ## Table of Contents
----
-* [General info](#general info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [How to play](#how to play)
+* [How to play](#how-to-play)
 
 ## General info
 This project is a simple console application that implements the four in a row game on a 7x7 table.    
