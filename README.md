@@ -27,10 +27,10 @@ To play the game you first have to specify either to play against another player
 ##Examples
 Choosing a game mode:
 ![choose-mode](https://user-images.githubusercontent.com/77937479/126626221-f71a54f5-c51d-4fb0-8fae-462038a73fc3.png)
-
+<br>
 Player vs Player:
 ![player-player](https://user-images.githubusercontent.com/77937479/126626275-35ab5c53-fa2d-473a-945c-028a462c86ad.png)
-
+<br>
 Player vs Computer:
 ![player-computer](https://user-images.githubusercontent.com/77937479/126626293-c9a4c574-3ba2-4b24-b8ec-5e53407f20c1.png)
-
+<br>
